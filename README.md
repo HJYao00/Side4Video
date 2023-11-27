@@ -9,7 +9,7 @@ This repository is the offiial implementation of [Side4Video](https://github.com
 
 ## 📰 News
 - [ ] We will release code soon.
-- [x] **`Nov 28, 2023`** We release our paper in [arxiv](https://github.com/HJYao00/Side4Video).
+- [x] **`Nov 28, 2023.`** We release our paper in [arxiv](https://github.com/HJYao00/Side4Video).
 
 ## 🗺️ Overview
 The motivation of Side4Video is to reduce the training cost, enabling us to train a larger model with limited resources.
