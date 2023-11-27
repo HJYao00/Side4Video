@@ -3,7 +3,7 @@
 <h1> Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning
 </div>
 
-This repository is the offiial implementation of [Side4Video](https://github.com/HJYao00/Side4Video), which significantly reduce the training memory cost for action recognition and text-video retrieval tasks. Our code will be released soon!
+This repository is the offiial implementation of [Side4Video](https://github.com/HJYao00/Side4Video), which significantly reduces the training memory cost for action recognition and text-video retrieval tasks. Our code will be released soon!
 
 <!--[![Paper](http://img.shields.io/badge/Paper-arxiv.2307.08908-b31b1b.svg)](https://arxiv.org/abs/2307.08908)-->
 
