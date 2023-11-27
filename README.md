@@ -9,7 +9,7 @@ This repository is the offiial implementation of [Side4Video](https://github.com
 
 ## 📰 News
 - [ ] We will release code soon.
-- [x] **`Nov 28, 2023`** We release our inital paper in [Arxiv](https://github.com/HJYao00/Side4Video).
+- [x] **`Nov 28, 2023`** We release our paper in [arxiv](https://github.com/HJYao00/Side4Video).
 
 ## 🗺️ Overview
 The motivation of Side4Video is to reduce the training cost, enabling us to train a larger model with limited resources.
@@ -25,7 +25,7 @@ Our implementation is mainly based on the following codebases. We are sincerely 
 - [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip): An Empirical Study of CLIP for End to End Video Clip Retrieval.
 
 ## 📧 Contact
-If you have any question about this repository, please feel feel to file an issue or contact us.
+If you have any questions about this repository, please feel feel to file an issue or contact us.
 ```
 Huanjin Yao: hjyao.thu@gmail.com
 Wenhao Wu: wenhao.wu@sydney.edu.au
