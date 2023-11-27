@@ -5,6 +5,8 @@
 
 This repository is the offiial implementation of [Side4Video](https://github.com/HJYao00/Side4Video). 
 
+![Side4Video](Side4Video.png)
+
 ## 📰 News
 - [ ] We will release our code soon.
 - [x] **`Nov 28, 2023`** We release our inital paper in [Arxiv](https://github.com/HJYao00/Side4Video).
