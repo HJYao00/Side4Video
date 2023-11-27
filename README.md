@@ -17,10 +17,10 @@ The motivation of Side4Video is to reduce the training cost, enabling us to trai
 ![Side4Video](Side4Video.png)
 
 ## 🖇️ Citation
-If you find this repository is usefule, please star🌟 this repo and cite📑 our paper.
+If you find this repository is useful, please star🌟 this repo and cite🖇️ our paper.
 
 ## 👍 Acknowledgment
-Our implementation is mainly based on the following codebases. We are sincerely grateful for their work
+Our implementation is mainly based on the following codebases. We are sincerely grateful for their work.
 - [Text4Vis](https://github.com/whwu95/Text4Vis): Revisiting Classifier: Transferring Vision-Language Models for Video Recognition.
 - [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip): An Empirical Study of CLIP for End to End Video Clip Retrieval.
 
