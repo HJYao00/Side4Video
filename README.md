@@ -22,7 +22,7 @@ If you find this repository is useful, please star🌟 this repo and cite🖇️
 @article{Side4Video,
   title={Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning},
   author={Yao, Huanjin and Wu, Wenhao and Li, Zhiheng},
-  booktitle={arXiv preprint arXiv:2311.15769},
+  journal={arXiv preprint arXiv:2311.15769},
   year={2023}
 }
 ```
