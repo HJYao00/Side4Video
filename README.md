@@ -27,6 +27,6 @@ Our implementation is mainly based on the following codebases. We are sincerely 
 ## 📧 Contact
 If you have any questions about this repository, please file an issue or contact us.
 ```
-Huanjin Yao: hjyao.thu@gmail.com
+Huanjin Yao: yaohj22@mails.tsinghua.edu.cn
 Wenhao Wu: wenhao.wu@sydney.edu.au
 ```
