@@ -25,7 +25,7 @@ Our implementation is mainly based on the following codebases. We are sincerely 
 - [CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip): An Empirical Study of CLIP for End to End Video Clip Retrieval.
 
 ## 📧 Contact
-If you have any questions about this repository, please feel feel to file an issue or contact us.
+If you have any questions about this repository, please file an issue or contact us.
 ```
 Huanjin Yao: hjyao.thu@gmail.com
 Wenhao Wu: wenhao.wu@sydney.edu.au
