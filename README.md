@@ -14,7 +14,7 @@ This repository is the official implementation of [Side4Video](https://arxiv.org
 ## 🗺️ Overview
 <!--[The motivation of Side4Video is to reduce the training cost, enabling us to train a larger model with limited resources.-->
 
-![Side4Video](Side4Video.png)
+![Side4Video](imgs/Side4Video.png)
 
 ## 📊 Results
 <div align=center>
