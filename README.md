@@ -8,7 +8,7 @@ This repository is the official implementation of [Side4Video](https://github.co
 <!--[![Paper](http://img.shields.io/badge/Paper-arxiv.2307.08908-b31b1b.svg)](https://arxiv.org/abs/2307.08908)-->
 
 ## 📰 News
-- [ ] We will release code soon.
+<!-- - [ ] We will release code soon.-->
 - [x] **`Nov 28, 2023.`** We release our paper in [arxiv](https://github.com/HJYao00/Side4Video).
 
 ## 🗺️ Overview
