@@ -4,6 +4,9 @@
 </div>
 
 This repository is the official implementation of [Side4Video](https://arxiv.org/abs/2311.15769), which significantly reduces the training memory cost for action recognition and text-video retrieval tasks. Our code will be released soon!
+<div align=center>
+<img width="350" alt="image" src="imgs/mem.png">
+</div>
 
 <!--[![Paper](http://img.shields.io/badge/Paper-arxiv.2307.08908-b31b1b.svg)](https://arxiv.org/abs/2307.08908)-->
 
@@ -14,7 +17,11 @@ This repository is the official implementation of [Side4Video](https://arxiv.org
 ## 🗺️ Overview
 <!--[The motivation of Side4Video is to reduce the training cost, enabling us to train a larger model with limited resources.-->
 
-![Side4Video](imgs/Side4Video.png)
+<div align=center>
+<img width="795" alt="image" src="imgs/Side4Video.png">
+</div>
+
+<!-- ![Side4Video](imgs/Side4Video.png) -->
 
 ## 📊 Results
 <div align=center>
