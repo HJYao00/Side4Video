@@ -39,7 +39,7 @@ This repository is the official implementation of [Side4Video](https://arxiv.org
 
 ## 📊 Results
 <div align=center>
-<img width="795" alt="image" src="https://github.com/HJYao00/Side4Video/assets/119796101/d4a6a5c9-58a1-4232-9208-9d8be5597616">
+<img width="800" alt="image" src="imgs/memory.png">
 </div>
 Our best model can achieve an accuracy of 67.3% & 74.6 on Something-Something V1 & V2, 88.6% on Kinetics-400 and a Recall@1 of 52.3% on MSR-VTT, 56.1% on MSVD, 68.8% on VATEX.
 
