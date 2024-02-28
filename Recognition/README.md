@@ -32,7 +32,7 @@ abseiling/-bwYZwnwb8E_000013_000023.mp4 0
 sh scripts/run_train_vision.sh configs/sthv1/sthv1_train_rgb_vitb-16-side4video.yaml
 ```
 
-## 📱 Model Zoo
+## Model Zoo
 
 Here we provide some off-the-shelf pre-trained checkpoints of our models in the following tables. More checkpoints will be provided soon.
 
@@ -41,19 +41,19 @@ Here we provide some off-the-shelf pre-trained checkpoints of our models in the 
 
 | Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
 |:------------:|:-------------------:|:------------------:|:-----------------:|
-| ViT-B/16 | 8x3x4 | 83.6 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/r/personal/wenhao_wu_sydney_edu_au/Documents/Side4Video/k400_vitb16_f8_82.5.pt?csf=1&web=1&e=DuF16V) |
+| ViT-B/16 | 8x3x4 | 83.6 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/EQD0OxnGqOlHj8w3ypX0uwcBGLpQF6Qht8Y6ZWybHTBHKw?e=yTg3WI) |
 
 #### Something-Something V1
 
 | Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
 |:------------:|:-------------------:|:------------------:|:-----------------:|
-| ViT-B/16 | 8x3x4 | 59.4 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/r/personal/wenhao_wu_sydney_edu_au/Documents/Side4Video/ssv1_vitb16_f8_58.5.pt?csf=1&web=1&e=6EOtIz) |
+| ViT-B/16 | 8x3x2 | 59.4 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/ES8TQBqmhdRAvs1SNi3yD8AB5nVcCCXzld9Xm8MWh3WHAA?e=Tsz5AQ) |
 
 #### Something-Something V2
 
 | Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
 |:------------:|:-------------------:|:------------------:|:-----------------:|
-| ViT-B/16 | 8x3x4 | 70.6 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/r/personal/wenhao_wu_sydney_edu_au/Documents/Side4Video/ssv2_vitb16_f8_69.5.pt?csf=1&web=1&e=dabgee) |
+| ViT-B/16 | 8x3x2 | 70.6 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/ETjXdYztCpRHmXM8JGPVPCIBsi1LkOJIzidhNzZxWxj53g?e=lvIe8H) |
 
 
 
