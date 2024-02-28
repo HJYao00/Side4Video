@@ -23,7 +23,7 @@ abseiling/-bwYZwnwb8E_000013_000023.mp4 0
 
 
 ## Train
-- After Data Preparation, you will need to download the CLIP weights from [OpenAI](https://github.com/openai/CLIP?tab=readme-ov-file) or [EVA](https://github.com/baaivision/EVA/tree/master/EVA-CLIP), and place them in the `clip_pretrain` folder. Finally, modify the path here
+- After Data Preparation, you will need to download the CLIP weights from [OpenAI](https://github.com/openai/CLIP?tab=readme-ov-file) or [EVA](https://github.com/baaivision/EVA/tree/master/EVA-CLIP), and place them in the `clip_pretrain` folder.
 ```sh
 # clip_pretrain /
 # |-- ViT-B-32.pt /
@@ -41,24 +41,24 @@ Here we provide some off-the-shelf pre-trained checkpoints of our models in the 
 
 | Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
 |:------------:|:-------------------:|:------------------:|:-----------------:|
-| ViT-B/16 | 8x3x4 | 83.6 | [OneDrive](https://github.com/whwu95/Text4Vis/releases/download/v1/k400-vitb-32-f8.pt) |
+| ViT-B/16 | 8x3x4 | 83.6 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/r/personal/wenhao_wu_sydney_edu_au/Documents/Side4Video/k400_vitb16_f8_82.5.pt?csf=1&web=1&e=DuF16V) |
 
 #### Something-Something V1
 
 | Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
 |:------------:|:-------------------:|:------------------:|:-----------------:|
-| ViT-B/16 | 8x3x4 | 59.4 | [OneDrive](https://github.com/whwu95/Text4Vis/releases/download/v1/k400-vitb-32-f8.pt) |
+| ViT-B/16 | 8x3x4 | 59.4 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/r/personal/wenhao_wu_sydney_edu_au/Documents/Side4Video/ssv1_vitb16_f8_58.5.pt?csf=1&web=1&e=6EOtIz) |
 
 #### Something-Something V2
 
 | Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
 |:------------:|:-------------------:|:------------------:|:-----------------:|
-| ViT-B/16 | 8x3x4 | 70.6 | [OneDrive](https://github.com/whwu95/Text4Vis/releases/download/v1/k400-vitb-32-f8.pt) |
+| ViT-B/16 | 8x3x4 | 70.6 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/r/personal/wenhao_wu_sydney_edu_au/Documents/Side4Video/ssv2_vitb16_f8_69.5.pt?csf=1&web=1&e=dabgee) |
 
 
 
 ## Test
-- Replace the path in `--init_model` and run the command to test the model.
+- Run the following command to test the model.
 ```sh
 sh scripts/run_test_vision.sh configs/sthv1/sthv1_train_rgb_vitb-16-side4video.yaml exp_onehot/ssv1/model_best.pt --test_crops 3 --test_clips 2
 ```
