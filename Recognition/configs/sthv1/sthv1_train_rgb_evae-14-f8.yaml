@@ -1,0 +1,58 @@
+resume: 
+pretrain: 
+seed: 1024
+data:
+    dataset: somethingv1
+    modality: RGB
+    num_segments: 8
+    seg_length: 1
+    batch_size: 8
+    workers: 4
+    num_classes: 174
+    image_tmpl: '{:05d}.jpg'
+    train_root: '/bpfs/v2_mnt/VIS/wuwenhao/20bn-something-something-v1'
+    train_list: 'lists/sthv1/train_rgb.txt'
+    val_root: '/bpfs/v2_mnt/VIS/wuwenhao/20bn-something-something-v1'
+    val_list: 'lists/sthv1/val_rgb.txt' #
+    label_list: 'lists/sth_labels.csv'
+    input_size: 224
+    random_shift: True
+    num_sample: 2
+    rand_aug: True
+    rand_erase: False
+network:
+    arch: EVA02-CLIP-bigE-14  #ViT-B/32 ViT-B/16
+    init: True
+    tm: False # localuni t1d atm False
+    drop_out: 0.0 
+    emb_dropout: 0.0 
+    type: clip_sth
+    sim_header: None  # Transf   None  
+    joint_st: False
+    drop_fc: 0
+    n_emb: 576
+    side_dim: 576
+    fix_clip: False
+    my_fix_clip: True
+    sync_bn: False
+solver:
+    type: cosine
+    epochs: 30
+    start_epoch: 0
+    epoch_offset: 0
+    optim: adamw
+    lr: 1.e-4
+    lr_warmup_step: 6
+    weight_decay: 0.15
+    loss_type: CE
+    evaluate: False
+    clip_ratio: 1
+    betas: [0.9, 0.999]
+    grad_accumulation_steps: 1
+    # mixup: True
+    smoothing: 0.1
+    layer_decay: 1.0 # 0.7
+logging:
+    print_freq: 10
+    eval_freq: 1
+    skip_epoch: [0,2,3,4,5,7,8,9,11,12,14,15]

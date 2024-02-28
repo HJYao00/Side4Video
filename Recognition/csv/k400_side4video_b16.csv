@@ -1,0 +1,401 @@
+id,name,correct,total,acc,rank,error_1,error_2
+0,abseiling,38.0,50.0,0.76,291,bungee jumping_3,rock climbing_2
+1,air drumming,32.0,49.0,0.6530612244897959,348,headbanging_3,pumping fist_2
+2,answering questions,30.0,50.0,0.6,365,giving or receiving award_4,testifying_2
+3,applauding,23.0,50.0,0.46,391,giving or receiving award_4,clapping_3
+4,applying cream,39.0,50.0,0.78,284,waxing legs_2,cutting nails_1
+5,archery,45.0,50.0,0.9,124,catching or throwing frisbee_1,bookbinding_1
+6,arm wrestling,48.0,49.0,0.9795918367346939,25,eating ice cream_1,None
+7,arranging flowers,46.0,50.0,0.92,99,watering plants_1,wrapping present_1
+8,assembling computer,50.0,50.0,1.0,7,None,None
+9,auctioning,42.0,50.0,0.84,222,giving or receiving award_2,dining_2
+10,baby waking up,44.0,50.0,0.88,171,sneezing_2,sticking tongue out_2
+11,baking cookies,42.0,49.0,0.8571428571428571,210,making a cake_3,cooking on campfire_1
+12,balloon blowing,43.0,49.0,0.8775510204081632,180,drinking shots_1,massaging person's head_1
+13,bandaging,39.0,50.0,0.78,282,waxing legs_3,waxing eyebrows_2
+14,barbequing,43.0,50.0,0.86,197,cooking on campfire_2,celebrating_1
+15,bartending,45.0,50.0,0.9,127,tai chi_1,tasting beer_1
+16,beatboxing,33.0,49.0,0.673469387755102,338,playing harmonica_3,finger snapping_2
+17,bee keeping,48.0,50.0,0.96,45,spraying_1,planting trees_1
+18,belly dancing,45.0,49.0,0.9183673469387755,114,zumba_2,riding mechanical bull_1
+19,bench pressing,48.0,50.0,0.96,42,riding elephant_1,salsa dancing_1
+20,bending back,32.0,48.0,0.6666666666666666,341,cartwheeling_3,front raises_2
+21,bending metal,31.0,50.0,0.62,363,changing wheel_1,sword fighting_1
+22,biking through snow,46.0,50.0,0.92,101,snowmobiling_2,sled dog racing_1
+23,blasting sand,41.0,50.0,0.82,251,spraying_4,cleaning floor_3
+24,blowing glass,48.0,50.0,0.96,44,arm wrestling_1,cleaning floor_1
+25,blowing leaves,40.0,49.0,0.8163265306122449,256,cleaning gutters_2,headbutting_1
+26,blowing nose,43.0,50.0,0.86,196,opening present_1,headbutting_1
+27,blowing out candles,44.0,49.0,0.8979591836734694,149,headbutting_1,rock scissors paper_1
+28,bobsledding,42.0,50.0,0.84,229,tobogganing_7,pushing cart_1
+29,bookbinding,46.0,50.0,0.92,102,making jewelry_1,shuffling cards_1
+30,bouncing on trampoline,41.0,50.0,0.82,248,gymnastics tumbling_2,somersaulting_2
+31,bowling,47.0,49.0,0.9591836734693877,53,throwing ball_1,ice skating_1
+32,braiding hair,43.0,49.0,0.8775510204081632,178,fixing hair_2,curling hair_2
+33,breading or breadcrumbing,43.0,49.0,0.8775510204081632,177,cooking chicken_5,scrambling eggs_1
+34,breakdancing,34.0,50.0,0.68,337,krumping_2,ice skating_1
+35,brush painting,38.0,48.0,0.7916666666666666,276,plastering_2,doing nails_2
+36,brushing hair,41.0,50.0,0.82,243,shaking head_2,fixing hair_1
+37,brushing teeth,46.0,50.0,0.92,103,drinking_1,dying hair_1
+38,building cabinet,44.0,50.0,0.88,166,bookbinding_2,building shed_2
+39,building shed,46.0,50.0,0.92,109,mopping floor_1,laying bricks_1
+40,bungee jumping,48.0,50.0,0.96,50,cleaning windows_1,digging_1
+41,busking,35.0,50.0,0.7,323,playing violin_3,playing ukulele_2
+42,canoeing or kayaking,46.0,50.0,0.92,104,catching fish_1,surfing water_1
+43,capoeira,47.0,50.0,0.94,78,punching bag_1,lunge_1
+44,carrying baby,45.0,48.0,0.9375,86,baby waking up_2,skiing (not slalom or crosscountry)_1
+45,cartwheeling,32.0,50.0,0.64,353,gymnastics tumbling_3,drop kicking_2
+46,carving pumpkin,46.0,48.0,0.9583333333333334,62,sharpening pencil_1,making jewelry_1
+47,catching fish,41.0,48.0,0.8541666666666666,215,feeding fish_2,canoeing or kayaking_2
+48,catching or throwing baseball,34.0,50.0,0.68,335,hitting baseball_5,catching or throwing softball_4
+49,catching or throwing frisbee,38.0,50.0,0.76,297,passing American football (not in game)_2,jumping into pool_1
+50,catching or throwing softball,42.0,51.0,0.8235294117647058,239,catching or throwing baseball_2,hitting baseball_2
+51,celebrating,34.0,50.0,0.68,336,marching_2,blowing out candles_1
+52,changing oil,48.0,50.0,0.96,31,spray painting_1,changing wheel_1
+53,changing wheel,38.0,50.0,0.76,295,checking tires_4,changing oil_2
+54,checking tires,44.0,50.0,0.88,164,changing oil_2,brush painting_1
+55,cheerleading,45.0,49.0,0.9183673469387755,120,singing_1,doing aerobics_1
+56,chopping wood,45.0,49.0,0.9183673469387755,121,throwing axe_2,blowing leaves_1
+57,clapping,23.0,48.0,0.4791666666666667,386,rock scissors paper_4,zumba_2
+58,clay pottery making,47.0,50.0,0.94,74,making jewelry_1,plastering_1
+59,clean and jerk,43.0,49.0,0.8775510204081632,176,snatch weight lifting_3,lunge_1
+60,cleaning floor,35.0,49.0,0.7142857142857143,322,mopping floor_5,sweeping floor_3
+61,cleaning gutters,43.0,50.0,0.86,201,cleaning windows_4,trimming trees_1
+62,cleaning pool,43.0,50.0,0.86,203,blasting sand_1,cleaning floor_1
+63,cleaning shoes,41.0,49.0,0.8367346938775511,235,shining shoes_4,tying tie_1
+64,cleaning toilet,44.0,50.0,0.88,158,taking a shower_1,sniffing_1
+65,cleaning windows,43.0,50.0,0.86,205,abseiling_2,spray painting_1
+66,climbing a rope,45.0,50.0,0.9,138,swinging on something_1,pull ups_1
+67,climbing ladder,41.0,50.0,0.82,245,pull ups_2,abseiling_1
+68,climbing tree,47.0,50.0,0.94,76,trimming trees_2,trapezing_1
+69,contact juggling,46.0,50.0,0.92,112,robot dancing_1,juggling balls_1
+70,cooking chicken,38.0,50.0,0.76,292,barbequing_7,frying vegetables_2
+71,cooking egg,33.0,50.0,0.66,345,scrambling eggs_12,cooking sausages_1
+72,cooking on campfire,41.0,48.0,0.8541666666666666,216,barbequing_5,cooking sausages_1
+73,cooking sausages,33.0,50.0,0.66,342,cooking chicken_7,barbequing_3
+74,counting money,43.0,49.0,0.8775510204081632,182,tossing coin_1,reading book_1
+75,country line dancing,48.0,50.0,0.96,32,zumba_1,lunge_1
+76,cracking neck,35.0,48.0,0.7291666666666666,314,drinking beer_1,pumping fist_1
+77,crawling baby,48.0,50.0,0.96,36,crying_1,sticking tongue out_1
+78,crossing river,45.0,50.0,0.9,134,diving cliff_2,headbutting_1
+79,crying,39.0,49.0,0.7959183673469388,273,baby waking up_2,drinking_1
+80,curling hair,42.0,49.0,0.8571428571428571,212,braiding hair_5,brushing hair_2
+81,cutting nails,40.0,47.0,0.851063829787234,217,doing nails_2,tickling_1
+82,cutting pineapple,50.0,50.0,1.0,5,None,None
+83,cutting watermelon,44.0,47.0,0.9361702127659575,87,eating watermelon_2,catching or throwing frisbee_1
+84,dancing ballet,48.0,50.0,0.96,43,tap dancing_1,belly dancing_1
+85,dancing charleston,24.0,49.0,0.4897959183673469,384,tap dancing_8,swing dancing_3
+86,dancing gangnam style,30.0,48.0,0.625,360,dancing macarena_6,pumping fist_4
+87,dancing macarena,42.0,49.0,0.8571428571428571,208,zumba_1,playing drums_1
+88,deadlifting,45.0,49.0,0.9183673469387755,118,bench pressing_1,snatch weight lifting_1
+89,decorating the christmas tree,49.0,49.0,1.0,14,None,None
+90,digging,41.0,50.0,0.82,253,driving tractor_2,cleaning gutters_2
+91,dining,41.0,50.0,0.82,246,auctioning_2,eating spaghetti_2
+92,disc golfing,47.0,50.0,0.94,64,mowing lawn_1,throwing axe_1
+93,diving cliff,49.0,49.0,1.0,13,None,None
+94,dodgeball,43.0,50.0,0.86,206,bouncing on trampoline_2,dunking basketball_2
+95,doing aerobics,32.0,50.0,0.64,352,zumba_11,running on treadmill_1
+96,doing laundry,38.0,50.0,0.76,294,folding clothes_2,washing hair_2
+97,doing nails,47.0,48.0,0.9791666666666666,30,making jewelry_1,None
+98,drawing,42.0,48.0,0.875,190,writing_2,tapping pen_1
+99,dribbling basketball,43.0,50.0,0.86,207,shooting basketball_3,dunking basketball_1
+100,drinking,23.0,49.0,0.46938775510204084,387,drinking beer_6,drinking shots_3
+101,drinking beer,33.0,50.0,0.66,343,drinking_4,opening bottle_4
+102,drinking shots,28.0,49.0,0.5714285714285714,370,drinking beer_3,drinking_3
+103,driving car,40.0,48.0,0.8333333333333334,238,pushing car_2,changing oil_2
+104,driving tractor,43.0,49.0,0.8775510204081632,187,driving car_2,mowing lawn_1
+105,drop kicking,25.0,47.0,0.5319148936170213,379,kicking field goal_3,headbutting_2
+106,drumming fingers,41.0,50.0,0.82,241,tapping pen_3,headbanging_1
+107,dunking basketball,36.0,48.0,0.75,305,playing basketball_7,shooting basketball_3
+108,dying hair,42.0,47.0,0.8936170212765957,155,fixing hair_2,curling hair_2
+109,eating burger,42.0,49.0,0.8571428571428571,213,eating chips_4,eating doughnuts_1
+110,eating cake,35.0,50.0,0.7,327,eating doughnuts_2,blowing out candles_2
+111,eating carrots,45.0,48.0,0.9375,85,eating hotdog_1,training dog_1
+112,eating chips,33.0,50.0,0.66,346,eating ice cream_3,sniffing_2
+113,eating doughnuts,26.0,49.0,0.5306122448979592,380,eating burger_8,beatboxing_2
+114,eating hotdog,29.0,50.0,0.58,367,eating burger_8,eating chips_4
+115,eating ice cream,39.0,50.0,0.78,277,eating watermelon_2,eating burger_2
+116,eating spaghetti,47.0,49.0,0.9591836734693877,55,eating carrots_2,None
+117,eating watermelon,46.0,50.0,0.92,95,playing ukulele_1,eating chips_1
+118,egg hunting,44.0,50.0,0.88,168,playing cricket_1,crying_1
+119,exercising arm,26.0,49.0,0.5306122448979592,381,front raises_6,stretching arm_5
+120,exercising with an exercise ball,38.0,48.0,0.7916666666666666,274,situp_2,throwing ball_2
+121,extinguishing fire,45.0,49.0,0.9183673469387755,115,juggling fire_1,folding clothes_1
+122,faceplanting,18.0,49.0,0.3673469387755102,395,drop kicking_5,ski jumping_3
+123,feeding birds,47.0,50.0,0.94,77,feeding goats_1,sharpening pencil_1
+124,feeding fish,44.0,49.0,0.8979591836734694,150,scuba diving_2,catching fish_1
+125,feeding goats,46.0,50.0,0.92,90,petting animal (not cat)_3,milking cow_1
+126,filling eyebrows,48.0,49.0,0.9795918367346939,28,bending metal_1,None
+127,finger snapping,27.0,50.0,0.54,377,air drumming_4,pumping fist_3
+128,fixing hair,20.0,49.0,0.40816326530612246,392,braiding hair_5,brushing hair_5
+129,flipping pancake,45.0,49.0,0.9183673469387755,116,high kick_1,playing badminton_1
+130,flying kite,46.0,50.0,0.92,94,watering plants_1,news anchoring_1
+131,folding clothes,40.0,49.0,0.8163265306122449,255,making bed_2,opening present_2
+132,folding napkins,43.0,49.0,0.8775510204081632,188,folding paper_2,setting table_2
+133,folding paper,41.0,49.0,0.8367346938775511,232,bookbinding_4,shuffling cards_1
+134,front raises,48.0,50.0,0.96,47,exercising arm_1,punching person (boxing)_1
+135,frying vegetables,43.0,50.0,0.86,198,cooking chicken_2,tossing salad_2
+136,garbage collecting,37.0,49.0,0.7551020408163265,303,unloading truck_2,opening bottle_1
+137,gargling,41.0,49.0,0.8367346938775511,233,drinking_2,giving or receiving award_1
+138,getting a haircut,43.0,49.0,0.8775510204081632,185,shaving head_2,crying_1
+139,getting a tattoo,47.0,49.0,0.9591836734693877,52,yawning_1,doing nails_1
+140,giving or receiving award,45.0,50.0,0.9,125,answering questions_3,playing bagpipes_1
+141,golf chipping,36.0,50.0,0.72,318,golf putting_8,golf driving_5
+142,golf driving,45.0,50.0,0.9,129,golf chipping_3,golf putting_1
+143,golf putting,45.0,49.0,0.9183673469387755,117,golf driving_2,archery_1
+144,grinding meat,47.0,50.0,0.94,67,making a cake_2,barbequing_1
+145,grooming dog,44.0,50.0,0.88,163,grooming horse_2,filling eyebrows_1
+146,grooming horse,43.0,49.0,0.8775510204081632,181,riding or walking with horse_3,grooming dog_1
+147,gymnastics tumbling,43.0,49.0,0.8775510204081632,184,somersaulting_2,vault_1
+148,hammer throw,47.0,50.0,0.94,69,throwing discus_2,high jump_1
+149,headbanging,36.0,49.0,0.7346938775510204,311,beatboxing_3,shaking head_1
+150,headbutting,16.0,50.0,0.32,397,punching person (boxing)_3,faceplanting_3
+151,high jump,45.0,50.0,0.9,126,long jump_2,triple jump_1
+152,high kick,29.0,50.0,0.58,366,side kick_6,drop kicking_2
+153,hitting baseball,44.0,51.0,0.8627450980392157,191,catching or throwing baseball_5,playing basketball_1
+154,hockey stop,28.0,50.0,0.56,372,playing ice hockey_10,ice skating_6
+155,holding snake,45.0,50.0,0.9,136,flipping pancake_1,pumping fist_1
+156,hopscotch,48.0,50.0,0.96,39,hula hooping_2,None
+157,hoverboarding,45.0,48.0,0.9375,84,skydiving_1,playing basketball_1
+158,hugging,36.0,49.0,0.7346938775510204,313,kissing_2,tickling_2
+159,hula hooping,46.0,49.0,0.9387755102040817,83,somersaulting_1,robot dancing_1
+160,hurdling,47.0,50.0,0.94,73,drinking_1,passing American football (not in game)_1
+161,hurling (sport),48.0,50.0,0.96,38,hitting baseball_1,playing basketball_1
+162,ice climbing,47.0,50.0,0.94,70,skiing (not slalom or crosscountry)_2,climbing ladder_1
+163,ice fishing,46.0,48.0,0.9583333333333334,60,catching fish_1,shining shoes_1
+164,ice skating,48.0,50.0,0.96,37,snowmobiling_1,playing ice hockey_1
+165,ironing,41.0,48.0,0.8541666666666666,214,folding clothes_2,motorcycling_1
+166,javelin throw,47.0,50.0,0.94,66,shot put_1,triple jump_1
+167,jetskiing,46.0,50.0,0.92,93,crossing river_1,canoeing or kayaking_1
+168,jogging,29.0,50.0,0.58,369,riding or walking with horse_2,walking the dog_2
+169,juggling balls,43.0,49.0,0.8775510204081632,186,contact juggling_4,spinning poi_1
+170,juggling fire,43.0,50.0,0.86,192,spinning poi_2,bartending_1
+171,juggling soccer ball,42.0,50.0,0.84,220,jumpstyle dancing_2,kicking soccer ball_2
+172,jumping into pool,46.0,50.0,0.92,92,taking a shower_1,ski jumping_1
+173,jumpstyle dancing,38.0,49.0,0.7755102040816326,286,zumba_2,krumping_2
+174,kicking field goal,46.0,50.0,0.92,91,drop kicking_1,marching_1
+175,kicking soccer ball,36.0,50.0,0.72,320,shooting goal (soccer)_2,juggling soccer ball_2
+176,kissing,41.0,46.0,0.8913043478260869,156,hugging_2,drinking_1
+177,kitesurfing,50.0,50.0,1.0,4,None,None
+178,knitting,47.0,50.0,0.94,68,playing xylophone_1,ripping paper_1
+179,krumping,40.0,50.0,0.8,264,robot dancing_3,breakdancing_3
+180,laughing,31.0,48.0,0.6458333333333334,350,tickling_3,shaking head_2
+181,laying bricks,42.0,49.0,0.8571428571428571,209,digging_3,flipping pancake_1
+182,long jump,32.0,50.0,0.64,354,triple jump_16,shot put_1
+183,lunge,38.0,50.0,0.76,299,snatch weight lifting_2,squat_2
+184,making a cake,31.0,49.0,0.6326530612244898,357,washing dishes_4,barbequing_2
+185,making a sandwich,37.0,50.0,0.74,310,making pizza_4,cooking chicken_2
+186,making bed,47.0,50.0,0.94,65,wrapping present_1,folding clothes_1
+187,making jewelry,43.0,49.0,0.8775510204081632,174,tying knot (not on a tie)_2,doing nails_1
+188,making pizza,46.0,50.0,0.92,111,baking cookies_2,washing dishes_1
+189,making snowman,46.0,50.0,0.92,110,walking the dog_1,ski jumping_1
+190,making sushi,47.0,50.0,0.94,63,making pizza_1,air drumming_1
+191,making tea,37.0,50.0,0.74,309,opening bottle_2,shredding paper_1
+192,marching,48.0,50.0,0.96,35,playing trombone_1,salsa dancing_1
+193,massaging back,44.0,49.0,0.8979591836734694,141,massaging legs_1,pumping fist_1
+194,massaging feet,34.0,49.0,0.6938775510204082,333,massaging legs_4,washing feet_2
+195,massaging legs,37.0,49.0,0.7551020408163265,304,massaging back_5,massaging feet_3
+196,massaging person's head,37.0,50.0,0.74,308,washing hair_3,massaging back_3
+197,milking cow,48.0,48.0,1.0,11,None,None
+198,mopping floor,32.0,50.0,0.64,355,cleaning floor_10,sweeping floor_4
+199,motorcycling,44.0,49.0,0.8979591836734694,144,driving car_2,riding mountain bike_2
+200,moving furniture,33.0,50.0,0.66,344,making bed_3,drop kicking_1
+201,mowing lawn,42.0,50.0,0.84,230,driving tractor_3,blowing leaves_2
+202,news anchoring,39.0,50.0,0.78,283,testifying_2,headbutting_1
+203,opening bottle,40.0,50.0,0.8,269,waxing legs_2,eating spaghetti_1
+204,opening present,44.0,50.0,0.88,159,unboxing_1,wrapping present_1
+205,paragliding,46.0,50.0,0.92,107,skydiving_2,kitesurfing_1
+206,parasailing,46.0,50.0,0.92,106,kitesurfing_2,paragliding_1
+207,parkour,32.0,48.0,0.6666666666666666,340,swinging on something_2,bobsledding_2
+208,passing American football (in game),46.0,50.0,0.92,105,kicking field goal_3,tossing coin_1
+209,passing American football (not in game),34.0,49.0,0.6938775510204082,332,passing American football (in game)_5,shooting basketball_2
+210,peeling apples,49.0,50.0,0.98,16,peeling potatoes_1,None
+211,peeling potatoes,40.0,50.0,0.8,270,tasting food_2,mopping floor_1
+212,petting animal (not cat),31.0,49.0,0.6326530612244898,358,petting cat_8,feeding goats_5
+213,petting cat,49.0,50.0,0.98,17,petting animal (not cat)_1,None
+214,picking fruit,47.0,49.0,0.9591836734693877,54,watering plants_2,None
+215,planting trees,41.0,49.0,0.8367346938775511,234,mowing lawn_1,sled dog racing_1
+216,plastering,40.0,50.0,0.8,261,blasting sand_2,spraying_2
+217,playing accordion,48.0,49.0,0.9795918367346939,26,busking_1,None
+218,playing badminton,49.0,50.0,0.98,20,playing tennis_1,None
+219,playing bagpipes,43.0,50.0,0.86,194,slacklining_1,playing drums_1
+220,playing basketball,35.0,50.0,0.7,326,dunking basketball_8,dribbling basketball_3
+221,playing bass guitar,43.0,50.0,0.86,200,tapping guitar_2,playing guitar_2
+222,playing cards,45.0,50.0,0.9,135,shuffling cards_3,unboxing_1
+223,playing cello,50.0,50.0,1.0,3,None,None
+224,playing chess,50.0,50.0,1.0,2,None,None
+225,playing clarinet,42.0,50.0,0.84,228,playing trombone_3,playing cello_1
+226,playing controller,50.0,50.0,1.0,1,None,None
+227,playing cricket,47.0,49.0,0.9591836734693877,57,dancing gangnam style_1,playing badminton_1
+228,playing cymbals,45.0,50.0,0.9,140,celebrating_1,playing trumpet_1
+229,playing didgeridoo,47.0,50.0,0.94,75,playing clarinet_1,holding snake_1
+230,playing drums,48.0,49.0,0.9795918367346939,27,playing saxophone_1,None
+231,playing flute,37.0,50.0,0.74,306,playing recorder_5,playing clarinet_3
+232,playing guitar,35.0,50.0,0.7,328,tapping guitar_6,strumming guitar_6
+233,playing harmonica,39.0,49.0,0.7959183673469388,272,singing_1,playing clarinet_1
+234,playing harp,49.0,50.0,0.98,21,playing accordion_1,None
+235,playing ice hockey,47.0,49.0,0.9591836734693877,58,hockey stop_1,ice skating_1
+236,playing keyboard,38.0,48.0,0.7916666666666666,275,playing piano_5,doing nails_1
+237,playing kickball,44.0,50.0,0.88,172,passing American football (not in game)_2,kicking soccer ball_2
+238,playing monopoly,46.0,50.0,0.92,89,playing chess_1,opening bottle_1
+239,playing organ,43.0,50.0,0.86,202,playing piano_3,playing keyboard_2
+240,playing paintball,50.0,50.0,1.0,12,None,None
+241,playing piano,35.0,50.0,0.7,325,playing keyboard_8,playing cello_2
+242,playing poker,48.0,49.0,0.9795918367346939,29,playing cards_1,None
+243,playing recorder,47.0,50.0,0.94,79,playing trumpet_1,playing flute_1
+244,playing saxophone,46.0,50.0,0.92,100,playing clarinet_2,playing trumpet_1
+245,playing squash or racquetball,49.0,50.0,0.98,18,playing badminton_1,None
+246,playing tennis,47.0,49.0,0.9591836734693877,59,tossing coin_1,playing cricket_1
+247,playing trombone,44.0,49.0,0.8979591836734694,142,playing trumpet_2,playing clarinet_1
+248,playing trumpet,46.0,49.0,0.9387755102040817,82,blowing out candles_1,marching_1
+249,playing ukulele,48.0,50.0,0.96,40,celebrating_1,playing guitar_1
+250,playing violin,44.0,50.0,0.88,162,playing cello_2,playing trumpet_1
+251,playing volleyball,42.0,48.0,0.875,189,catching or throwing frisbee_1,snowboarding_1
+252,playing xylophone,45.0,50.0,0.9,139,playing monopoly_1,feeding birds_1
+253,pole vault,46.0,50.0,0.92,108,high jump_1,javelin throw_1
+254,presenting weather forecast,49.0,50.0,0.98,19,news anchoring_1,None
+255,pull ups,45.0,50.0,0.9,133,situp_2,pumping fist_1
+256,pumping fist,27.0,50.0,0.54,376,air drumming_3,beatboxing_2
+257,pumping gas,46.0,48.0,0.9583333333333334,61,opening bottle_1,driving car_1
+258,punching bag,46.0,50.0,0.92,96,headbutting_2,ripping paper_1
+259,punching person (boxing),35.0,49.0,0.7142857142857143,321,punching bag_3,high kick_3
+260,push up,43.0,48.0,0.8958333333333334,153,kicking field goal_1,exercising with an exercise ball_1
+261,pushing car,44.0,50.0,0.88,160,driving car_3,pushing cart_1
+262,pushing cart,44.0,50.0,0.88,165,pushing car_2,riding scooter_1
+263,pushing wheelchair,46.0,50.0,0.92,97,tango dancing_1,bobsledding_1
+264,reading book,41.0,50.0,0.82,249,crawling baby_1,writing_1
+265,reading newspaper,42.0,50.0,0.84,227,ripping paper_2,reading book_2
+266,recording music,18.0,50.0,0.36,396,singing_4,playing guitar_3
+267,riding a bike,37.0,48.0,0.7708333333333334,290,riding mountain bike_3,motorcycling_2
+268,riding camel,49.0,50.0,0.98,23,marching_1,None
+269,riding elephant,48.0,50.0,0.96,48,petting animal (not cat)_1,riding camel_1
+270,riding mechanical bull,49.0,49.0,1.0,9,None,None
+271,riding mountain bike,44.0,49.0,0.8979591836734694,143,riding a bike_2,motorcycling_1
+272,riding mule,33.0,50.0,0.66,347,riding or walking with horse_13,riding camel_2
+273,riding or walking with horse,43.0,48.0,0.8958333333333334,154,grooming horse_2,walking the dog_1
+274,riding scooter,42.0,50.0,0.84,225,motorcycling_3,using segway_1
+275,riding unicycle,42.0,50.0,0.84,226,riding a bike_2,using segway_1
+276,ripping paper,31.0,50.0,0.62,361,laughing_6,crying_2
+277,robot dancing,25.0,50.0,0.5,383,dancing macarena_5,tap dancing_3
+278,rock climbing,48.0,50.0,0.96,49,climbing tree_1,diving cliff_1
+279,rock scissors paper,23.0,50.0,0.46,388,finger snapping_3,robot dancing_2
+280,roller skating,48.0,50.0,0.96,46,tap dancing_1,hockey stop_1
+281,running on treadmill,44.0,48.0,0.9166666666666666,123,answering questions_1,swinging legs_1
+282,sailing,48.0,49.0,0.9795918367346939,24,parasailing_1,None
+283,salsa dancing,40.0,49.0,0.8163265306122449,258,swing dancing_4,tango dancing_2
+284,sanding floor,48.0,50.0,0.96,41,crawling baby_1,cleaning shoes_1
+285,scrambling eggs,42.0,50.0,0.84,224,making a cake_2,frying vegetables_1
+286,scuba diving,46.0,50.0,0.92,88,snorkeling_2,feeding fish_1
+287,setting table,38.0,49.0,0.7755102040816326,289,folding napkins_4,breading or breadcrumbing_1
+288,shaking hands,27.0,48.0,0.5625,371,drinking beer_1,dancing macarena_1
+289,shaking head,28.0,50.0,0.56,374,beatboxing_3,laughing_3
+290,sharpening knives,39.0,50.0,0.78,278,peeling potatoes_2,making jewelry_1
+291,sharpening pencil,45.0,50.0,0.9,132,tapping pen_1,bookbinding_1
+292,shaving head,41.0,50.0,0.82,247,getting a haircut_5,trimming or shaving beard_2
+293,shaving legs,38.0,50.0,0.76,300,waxing legs_8,brushing teeth_2
+294,shearing sheep,49.0,49.0,1.0,6,None,None
+295,shining shoes,41.0,50.0,0.82,252,cleaning shoes_7,bending metal_1
+296,shooting basketball,26.0,50.0,0.52,382,playing basketball_15,dunking basketball_4
+297,shooting goal (soccer),37.0,49.0,0.7551020408163265,302,kicking soccer ball_4,playing cricket_1
+298,shot put,45.0,50.0,0.9,137,jogging_1,dodgeball_1
+299,shoveling snow,47.0,50.0,0.94,71,spinning poi_1,walking the dog_1
+300,shredding paper,36.0,50.0,0.72,319,ripping paper_5,bookbinding_2
+301,shuffling cards,44.0,49.0,0.8979591836734694,145,playing cards_4,counting money_1
+302,side kick,42.0,50.0,0.84,231,punching bag_3,tai chi_1
+303,sign language interpreting,35.0,48.0,0.7291666666666666,315,finger snapping_3,getting a tattoo_1
+304,singing,32.0,50.0,0.64,351,crying_2,celebrating_1
+305,situp,42.0,50.0,0.84,219,faceplanting_2,bandaging_1
+306,skateboarding,48.0,50.0,0.96,33,riding scooter_1,slacklining_1
+307,ski jumping,36.0,50.0,0.72,316,skiing (not slalom or crosscountry)_6,snowboarding_4
+308,skiing (not slalom or crosscountry),34.0,49.0,0.6938775510204082,331,snowboarding_6,ski jumping_6
+309,skiing crosscountry,40.0,50.0,0.8,263,skiing (not slalom or crosscountry)_7,shoveling snow_1
+310,skiing slalom,44.0,50.0,0.88,167,skiing (not slalom or crosscountry)_4,snowboarding_1
+311,skipping rope,40.0,50.0,0.8,266,jumpstyle dancing_3,jogging_2
+312,skydiving,45.0,50.0,0.9,131,parasailing_2,paragliding_1
+313,slacklining,44.0,49.0,0.8979591836734694,146,surfing crowd_1,swinging on something_1
+314,slapping,10.0,49.0,0.20408163265306123,399,baby waking up_4,shaking hands_2
+315,sled dog racing,50.0,50.0,1.0,0,None,None
+316,smoking,34.0,49.0,0.6938775510204082,330,driving car_3,smoking hookah_3
+317,smoking hookah,45.0,49.0,0.9183673469387755,119,drinking shots_1,smoking_1
+318,snatch weight lifting,44.0,49.0,0.8979591836734694,148,clean and jerk_3,catching or throwing baseball_1
+319,sneezing,19.0,50.0,0.38,393,crying_5,sticking tongue out_5
+320,sniffing,18.0,48.0,0.375,394,blowing nose_3,opening bottle_2
+321,snorkeling,42.0,50.0,0.84,223,scuba diving_4,feeding fish_3
+322,snowboarding,38.0,47.0,0.8085106382978723,260,skiing (not slalom or crosscountry)_7,biking through snow_1
+323,snowkiting,49.0,50.0,0.98,15,ice fishing_1,None
+324,snowmobiling,43.0,49.0,0.8775510204081632,183,tobogganing_3,biking through snow_1
+325,somersaulting,23.0,50.0,0.46,389,cartwheeling_5,gymnastics tumbling_4
+326,spinning poi,44.0,49.0,0.8979591836734694,151,juggling fire_2,juggling balls_1
+327,spray painting,42.0,49.0,0.8571428571428571,211,blasting sand_2,spraying_1
+328,spraying,23.0,50.0,0.46,390,spray painting_11,blasting sand_4
+329,springboard diving,40.0,48.0,0.8333333333333334,236,somersaulting_3,jumping into pool_2
+330,squat,42.0,50.0,0.84,221,clean and jerk_3,lunge_2
+331,sticking tongue out,30.0,49.0,0.6122448979591837,364,crying_3,shaking head_2
+332,stomping grapes,46.0,50.0,0.92,113,tap dancing_1,playing didgeridoo_1
+333,stretching arm,27.0,50.0,0.54,375,exercising arm_5,tossing coin_2
+334,stretching leg,29.0,50.0,0.58,368,yoga_5,swinging legs_2
+335,strumming guitar,37.0,50.0,0.74,307,playing guitar_10,tapping guitar_2
+336,surfing crowd,48.0,48.0,1.0,8,None,None
+337,surfing water,39.0,48.0,0.8125,259,kitesurfing_2,windsurfing_2
+338,sweeping floor,27.0,50.0,0.54,378,mopping floor_12,cleaning floor_8
+339,swimming backstroke,43.0,50.0,0.86,204,swimming breast stroke_4,swimming butterfly stroke_2
+340,swimming breast stroke,43.0,51.0,0.8431372549019608,218,swimming butterfly stroke_7,swimming backstroke_1
+341,swimming butterfly stroke,32.0,50.0,0.64,356,swimming breast stroke_13,swimming backstroke_2
+342,swing dancing,39.0,50.0,0.78,281,salsa dancing_4,dancing charleston_4
+343,swinging legs,24.0,50.0,0.48,385,pull ups_4,lunge_3
+344,swinging on something,34.0,49.0,0.6938775510204082,329,bungee jumping_3,climbing tree_2
+345,sword fighting,33.0,49.0,0.673469387755102,339,playing cricket_2,playing cymbals_1
+346,tai chi,44.0,50.0,0.88,157,zumba_1,high kick_1
+347,taking a shower,32.0,49.0,0.6530612244897959,349,washing hair_4,water sliding_1
+348,tango dancing,41.0,50.0,0.82,250,salsa dancing_4,playing clarinet_1
+349,tap dancing,38.0,49.0,0.7755102040816326,287,country line dancing_3,dancing ballet_2
+350,tapping guitar,41.0,50.0,0.82,242,playing guitar_5,playing ukulele_1
+351,tapping pen,47.0,49.0,0.9591836734693877,56,playing poker_1,cleaning windows_1
+352,tasting beer,36.0,50.0,0.72,317,drinking beer_8,drinking shots_2
+353,tasting food,28.0,50.0,0.56,373,eating burger_4,eating chips_4
+354,testifying,46.0,49.0,0.9387755102040817,81,pumping fist_1,giving or receiving award_1
+355,texting,40.0,49.0,0.8163265306122449,254,using computer_2,driving car_2
+356,throwing axe,47.0,50.0,0.94,72,catching or throwing baseball_1,side kick_1
+357,throwing ball,16.0,50.0,0.32,398,passing American football (not in game)_3,juggling balls_3
+358,throwing discus,39.0,50.0,0.78,280,hammer throw_4,shot put_3
+359,tickling,34.0,50.0,0.68,334,massaging feet_4,hugging_1
+360,tobogganing,44.0,50.0,0.88,161,skiing (not slalom or crosscountry)_2,ice climbing_1
+361,tossing coin,38.0,50.0,0.76,293,finger snapping_2,cheerleading_1
+362,tossing salad,44.0,50.0,0.88,173,frying vegetables_2,tasting food_1
+363,training dog,38.0,50.0,0.76,296,walking the dog_6,shining shoes_1
+364,trapezing,50.0,50.0,1.0,10,None,None
+365,trimming or shaving beard,48.0,50.0,0.96,34,getting a tattoo_1,waxing eyebrows_1
+366,trimming trees,38.0,49.0,0.7755102040816326,288,climbing tree_6,mowing lawn_2
+367,triple jump,36.0,49.0,0.7346938775510204,312,long jump_11,high jump_1
+368,tying bow tie,31.0,50.0,0.62,362,tying tie_10,tying knot (not on a tie)_3
+369,tying knot (not on a tie),41.0,50.0,0.82,244,making jewelry_4,bookbinding_1
+370,tying tie,43.0,50.0,0.86,195,tying knot (not on a tie)_2,tying bow tie_2
+371,unboxing,45.0,49.0,0.9183673469387755,122,shuffling cards_1,bookbinding_1
+372,unloading truck,39.0,50.0,0.78,285,garbage collecting_3,driving car_1
+373,using computer,46.0,49.0,0.9387755102040817,80,unboxing_1,texting_1
+374,using remote controller (not gaming),40.0,49.0,0.8163265306122449,257,canoeing or kayaking_1,playing controller_1
+375,using segway,43.0,49.0,0.8775510204081632,175,headbutting_1,waiting in line_1
+376,vault,43.0,50.0,0.86,193,gymnastics tumbling_5,pole vault_1
+377,waiting in line,38.0,50.0,0.76,301,celebrating_1,dancing gangnam style_1
+378,walking the dog,44.0,49.0,0.8979591836734694,147,riding scooter_1,training dog_1
+379,washing dishes,39.0,50.0,0.78,279,making a cake_2,washing hands_2
+380,washing feet,44.0,50.0,0.88,169,moving furniture_1,washing hands_1
+381,washing hair,40.0,48.0,0.8333333333333334,237,washing dishes_2,fixing hair_1
+382,washing hands,48.0,50.0,0.96,51,drinking_1,clapping_1
+383,water skiing,43.0,49.0,0.8775510204081632,179,jetskiing_3,swinging on something_1
+384,water sliding,40.0,50.0,0.8,268,jumping into pool_3,faceplanting_2
+385,watering plants,45.0,50.0,0.9,130,hitting baseball_1,sniffing_1
+386,waxing back,40.0,50.0,0.8,267,waxing chest_7,massaging back_2
+387,waxing chest,45.0,50.0,0.9,128,waxing back_2,laughing_1
+388,waxing eyebrows,44.0,50.0,0.88,170,filling eyebrows_1,massaging person's head_1
+389,waxing legs,38.0,50.0,0.76,298,shaving legs_5,waxing back_4
+390,weaving basket,46.0,50.0,0.92,98,bookbinding_1,arranging flowers_1
+391,welding,43.0,50.0,0.86,199,changing oil_1,bookbinding_1
+392,whistling,35.0,50.0,0.7,324,beatboxing_3,sticking tongue out_2
+393,windsurfing,49.0,50.0,0.98,22,jumpstyle dancing_1,None
+394,wrapping present,44.0,49.0,0.8979591836734694,152,opening present_2,folding clothes_1
+395,wrestling,40.0,50.0,0.8,265,drop kicking_2,tickling_1
+396,writing,40.0,50.0,0.8,262,using computer_2,drawing_2
+397,yawning,31.0,49.0,0.6326530612244898,359,baby waking up_4,crying_3
+398,yoga,39.0,49.0,0.7959183673469388,271,stretching leg_3,bending back_2
+399,zumba,37.0,45.0,0.8222222222222222,240,doing aerobics_3,answering questions_1
