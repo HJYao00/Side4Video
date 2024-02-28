@@ -26,6 +26,7 @@ This repository is the official implementation of [Side4Video](https://arxiv.org
 
 ## 📰 News
 <!-- - [ ] We will release code soon.-->
+- [x] **`Feb 28, 2024.`** We release our code for [Action Recognition](https://github.com/HJYao00/Side4Video/tree/main/Recognition) and [Text-Video Retrieval](https://github.com/HJYao00/Side4Video/tree/main/Retrieval).
 - [x] **`Nov 28, 2023.`** We release our paper in [arxiv](https://arxiv.org/abs/2311.15769).
 
 ## 🗺️ Overview
@@ -37,6 +38,9 @@ This repository is the official implementation of [Side4Video](https://arxiv.org
 
 <!-- ![Side4Video](imgs/Side4Video.png) -->
 
+## 🚀 Training and Testing
+For training and testing our model, please refer to the [Recognition](https://github.com/HJYao00/Side4Video/tree/main/Recognition) and [Retrieval](https://github.com/HJYao00/Side4Video/tree/main/Retrieval) folders.
+
 ## 📊 Results
 <div align=center>
 <img width="800" alt="image" src="imgs/memory.png">
@@ -47,7 +51,7 @@ Our best model can achieve an accuracy of 67.3% & 74.6 on Something-Something V1
 ## 🖇️ Citation
 If you find this repository is useful, please star🌟 this repo and cite🖇️ our paper.
 ```bibtex
-@article{Side4Video,
+@article{yao2023side4video,
   title={Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning},
   author={Yao, Huanjin and Wu, Wenhao and Li, Zhiheng},
   journal={arXiv preprint arXiv:2311.15769},
