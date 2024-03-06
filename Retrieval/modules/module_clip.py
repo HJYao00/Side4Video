@@ -645,7 +645,7 @@ class CLIP(nn.Module):
         # model_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ViT-B-32.pt")
         # if pretrained_clip_name in _MODELS and pretrained_clip_name in _PT_NAME:
         #     model_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), _PT_NAME[pretrained_clip_name])
-        model_path = '/ssd1/vis/wuwenhao/yaohuanjin/ATM_abl/clip_pretrain'
+        model_path = './clip_pretrain'
         model_path = os.path.join(model_path, _PT_NAME[pretrained_clip_name])
 
         if pretrained_clip_name in ["ViT-B/32", "ViT-B/16", "ViT-L/14"] and os.path.exists(model_path):
