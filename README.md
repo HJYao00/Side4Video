@@ -4,7 +4,7 @@
 
 <h5 align="center"> 
   
-[![arXiv](https://img.shields.io/badge/Arxiv-2311.15769-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.15769)
+<!--[![arXiv](https://img.shields.io/badge/Arxiv-2311.15769-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.15769)
 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/side4video-spatial-temporal-side-network-for/action-recognition-in-videos-on-something-1)](https://paperswithcode.com/sota/action-recognition-in-videos-on-something-1?p=side4video-spatial-temporal-side-network-for)
@@ -12,12 +12,12 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/side4video-spatial-temporal-side-network-for/video-retrieval-on-vatex)](https://paperswithcode.com/sota/video-retrieval-on-vatex?p=side4video-spatial-temporal-side-network-for)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/side4video-spatial-temporal-side-network-for/action-recognition-in-videos-on-something)](https://paperswithcode.com/sota/action-recognition-in-videos-on-something?p=side4video-spatial-temporal-side-network-for)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/side4video-spatial-temporal-side-network-for/video-retrieval-on-msr-vtt-1ka)](https://paperswithcode.com/sota/video-retrieval-on-msr-vtt-1ka?p=side4video-spatial-temporal-side-network-for)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/side4video-spatial-temporal-side-network-for/video-retrieval-on-msvd)](https://paperswithcode.com/sota/video-retrieval-on-msvd?p=side4video-spatial-temporal-side-network-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/side4video-spatial-temporal-side-network-for/video-retrieval-on-msvd)](https://paperswithcode.com/sota/video-retrieval-on-msvd?p=side4video-spatial-temporal-side-network-for) -->
 
 </h5>
 </div>
 
-This repository is the official implementation of [Side4Video](https://arxiv.org/abs/2311.15769), which significantly reduces the training memory cost for action recognition and text-video retrieval tasks. Our code will be released soon!
+This repository is the official implementation of Side4Video, which significantly reduces the training memory cost for action recognition and text-video retrieval tasks. Our code will be released soon!
 <div align=center>
 <img width="500" alt="image" src="imgs/mem.png">
 </div>
