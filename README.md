@@ -17,7 +17,7 @@
 </h5>
 </div>
 
-This repository is the official implementation of [Side4Video](https://arxiv.org/abs/2311.15769), which significantly reduces the training memory cost for action recognition and text-video retrieval tasks. Our code will be released soon!
+This repository is the official implementation of [Side4Video](https://arxiv.org/abs/2311.15769), which significantly reduces the training memory cost for action recognition and text-video retrieval tasks.
 <div align=center>
 <img width="500" alt="image" src="imgs/mem.png">
 </div>
