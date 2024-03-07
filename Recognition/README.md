@@ -32,29 +32,6 @@ abseiling/-bwYZwnwb8E_000013_000023.mp4 0
 sh scripts/run_train_vision.sh configs/sthv1/sthv1_train_rgb_vitb-16-side4video.yaml
 ```
 
-## Model Zoo
-
-Here we provide some off-the-shelf pre-trained checkpoints of our models in the following tables. More checkpoints will be provided soon.
-
-*#Frame = #input_frame x #spatial crops x #temporal clips*
-#### Kinetics-400
-
-| Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
-|:------------:|:-------------------:|:------------------:|:-----------------:|
-| ViT-B/16 | 8x3x4 | 83.6 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/EQD0OxnGqOlHj8w3ypX0uwcBGLpQF6Qht8Y6ZWybHTBHKw?e=yTg3WI) |
-
-#### Something-Something V1
-
-| Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
-|:------------:|:-------------------:|:------------------:|:-----------------:|
-| ViT-B/16 | 8x3x2 | 59.4 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/ES8TQBqmhdRAvs1SNi3yD8AB5nVcCCXzld9Xm8MWh3WHAA?e=Tsz5AQ) |
-
-#### Something-Something V2
-
-| Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
-|:------------:|:-------------------:|:------------------:|:-----------------:|
-| ViT-B/16 | 8x3x2 | 70.6 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/ETjXdYztCpRHmXM8JGPVPCIBsi1LkOJIzidhNzZxWxj53g?e=lvIe8H) |
-
 
 
 ## Test
@@ -63,14 +40,3 @@ Here we provide some off-the-shelf pre-trained checkpoints of our models in the 
 sh scripts/run_test_vision.sh configs/sthv1/sthv1_train_rgb_vitb-16-side4video.yaml exp_onehot/ssv1/model_best.pt --test_crops 3 --test_clips 2
 ```
 
-
-## 🖇️ Citation
-If you find this repository is useful, please star🌟 this repo and cite🖇️ our paper.
-```bibtex
-@article{yao2023side4video,
-  title={Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning},
-  author={Yao, Huanjin and Wu, Wenhao and Li, Zhiheng},
-  journal={arXiv preprint arXiv:2311.15769},
-  year={2023}
-}
-```
