@@ -6,13 +6,13 @@ data:
     modality: RGB
     num_segments: 8
     seg_length: 1
-    batch_size: 1
+    batch_size: 8
     workers: 4
     num_classes: 400
     image_tmpl: 'img_{:05d}.jpg'
-    train_root: '/bpfs/v2_mnt/VIS/test/k400/train_320_frames'
+    train_root: './k400/train_320_frames'
     train_list: 'lists/k400/kinetics_rgb_train_se320.txt'
-    val_root: /bpfs/v2_mnt/VIS/test/k400/kinetics_400_val_320_opencv
+    val_root: ./k400/kinetics_400_val_320_opencv
     val_list: lists/k400/kinetics_rgb_val_se320.txt
     label_list: 'lists/kinetics_400_labels.csv'
     input_size: 224
