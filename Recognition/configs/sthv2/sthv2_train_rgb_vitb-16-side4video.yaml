@@ -10,8 +10,8 @@ data:
     workers: 4
     num_classes: 174
     image_tmpl: '{:06d}.jpg'
-    train_root: '/bpfs/v2_mnt/VIS/wuwenhao/20bn-something-something-v2-frames'
-    val_root: '/bpfs/v2_mnt/VIS/wuwenhao/20bn-something-something-v2-frames'
+    train_root: './20bn-something-something-v2-frames'
+    val_root: './20bn-something-something-v2-frames'
     train_list: 'lists/sthv2/train_rgb.txt'
     val_list: 'lists/sthv2/val_rgb.txt' 
     label_list: 'lists/sth_labels.csv'
