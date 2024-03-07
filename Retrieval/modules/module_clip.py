@@ -52,7 +52,6 @@ def bn_3d(dim):
 
 def download_model(pretrained_clip_name):
     root = './clip_pretrain'
-    # root = '/home/hpluo/lhp/Codes/PycharmCodes/Video-Text-Retrieval/CLIP-models'
     model_path = os.path.join(root, _PT_NAME[pretrained_clip_name])
     return model_path
 
