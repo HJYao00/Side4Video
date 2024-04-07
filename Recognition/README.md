@@ -42,18 +42,21 @@ Here we provide some off-the-shelf pre-trained checkpoints of our models in the 
 | Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
 |:------------:|:-------------------:|:------------------:|:-----------------:|
 | ViT-B/16 | 8x3x4 | 83.6 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/EQD0OxnGqOlHj8w3ypX0uwcBGLpQF6Qht8Y6ZWybHTBHKw?e=yTg3WI) |
+| ViT-E/14 | 16x3x4 | 88.6 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/EWviEs4mF-9HoQOr8K2hiXYBx-06OLLEukvtEMkgLT-oxg?e=ecAkfB) |
 
 #### Something-Something V1
 
 | Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
 |:------------:|:-------------------:|:------------------:|:-----------------:|
 | ViT-B/16 | 8x3x2 | 59.4 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/ES8TQBqmhdRAvs1SNi3yD8AB5nVcCCXzld9Xm8MWh3WHAA?e=Tsz5AQ) |
+| ViT-E/14 | 16x3x2 | 67.3 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/EUk9-WQvgRtFq6iDj75aF5EBRkn2LF6-ApaarLRHkQ4p5A?e=4WU1Z0) |
 
 #### Something-Something V2
 
 | Backbone |#Frame |  Top-1 Acc.(%) | checkpoint |
 |:------------:|:-------------------:|:------------------:|:-----------------:|
 | ViT-B/16 | 8x3x2 | 70.6 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/ETjXdYztCpRHmXM8JGPVPCIBsi1LkOJIzidhNzZxWxj53g?e=lvIe8H) |
+| ViT-E/14 | 16x3x2 | 75.2 | [OneDrive](https://unisyd-my.sharepoint.com/:u:/g/personal/wenhao_wu_sydney_edu_au/Eae070rFi4NDm9qgZrNae0oBiWHovBa2WiQQ7LB7wgT7EA?e=Qan3RO) |
 
 
 
